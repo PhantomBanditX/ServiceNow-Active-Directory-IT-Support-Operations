@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000" src="https://github.com/user-attachments/assets/d5dd96d9-fe9b-465f-bde0-13b795ed37d7" />
+</p>
+
 # ServiceNow + Active Directory IT Support Operations
 
 > Hands-on IT support operations environment integrating ServiceNow ticketing workflows with Active Directory user administration, PowerShell automation, Group Policy, shared-folder access, and end-user validation in Microsoft Azure.
